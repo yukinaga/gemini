@@ -1,0 +1,20 @@
+# 「椅子」のデザイン
+「かっこいい椅子」をデザインし、文章で表現してください。
+↓
+Make a prompt for image generation.
+↓
+Make a prompt for image generation.
+
+# 「靴」のデザイン
+「北斎風の靴」をデザインし、文章で表現してください。
+↓
+Make a prompt for image generation.
+↓
+Create an image of the above.
+
+# 「自転車」のデザイン
+「未来の自転車」をデザインし、文章で表現してください。
+↓
+Make a prompt for image generation.
+↓
+Create an image of the above.
